@@ -26,10 +26,6 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-        
-          github_token: ${{secrets.GITHUB_TOKEN}}
-          access_token: ${{secrets.GITHUB_TOKEN}}
-          token: ${{secrets.GITHUB_TOKEN }}
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
@@ -40,6 +36,7 @@ jobs:
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          token: ${{secrets.GITHUB_TOKEN }}
           target_branch: output
           build_dir: dist
         env:
