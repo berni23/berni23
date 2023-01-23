@@ -5,7 +5,7 @@
 <p float="left" style="display:flex;">
   
  <img src="https://i.imgur.com/Hse7kMC.gif"/>
-  <img width=300 src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76110d7e7df8be7cf962e6b73be43b070762fe3c2cc6&rid=giphy.gif&ct=g"/>
+  <img width=250 src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76110d7e7df8be7cf962e6b73be43b070762fe3c2cc6&rid=giphy.gif&ct=g"/>
  
  <img src="https://i.imgur.com/Hse7kMC.gif"/>
  
