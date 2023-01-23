@@ -4,6 +4,10 @@
  <img width=100 src="https://i.imgur.com/Hse7kMC.gif"/>
  <img width=150 src="https://i.imgur.com/Hse7kMC.gif"/>
  <img width=200 src="https://i.imgur.com/Hse7kMC.gif"/>
+  
+ <img  width=300 src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76110d7e7df8be7cf962e6b73be43b070762fe3c2cc6&rid=giphy.gif&ct=g"/>
+  
+  </div>
  
 </div>
 
@@ -13,8 +17,6 @@
 
   <div align=center>
     
-
-  <img  align=center width=350 src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76110d7e7df8be7cf962e6b73be43b070762fe3c2cc6&rid=giphy.gif&ct=g"/>
   
   </div>
  
