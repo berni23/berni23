@@ -1,6 +1,14 @@
 
 ![snake gif](https://github.com/berni23/berni23/blob/output/github-contribution-grid-snake.gif)
 
+
+
+<img src ="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76110d7e7df8be7cf962e6b73be43b070762fe3c2cc6&rid=giphy.gif&ct=g"/>
+
+
+
+
+
 <!--
 **berni23/berni23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
